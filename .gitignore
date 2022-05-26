@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 *.java
 *.css
+=======
+*.css
+*.java
+*.txt
+>>>>>>> 55f48b480b5627926dab3054ab0aaceb89ab4326
+*.txt
